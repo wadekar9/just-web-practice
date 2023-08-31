@@ -1,0 +1,4 @@
+# Middleware :
+---> is the suggested way to extend Redux with custom functionality
+---> Provides a third-party extension point between dispatching an anction, and the moment it reaches the reducer.
+---> Use Middleware for logging, crash reporting, performing asynchronous tasks etc.

@@ -1,0 +1,8 @@
+## Actions
+----> # Synchronous Actions :
+    ---> As soon as an action was dispatched, the state was immediately updated.
+    ---> If you dispatch the CAKE_ORDERED action, the numOfCakes was right away decremented by 1.
+    ---> Same wtiht ICECREAM_ORDERED action as well.
+
+      # Asynchronous Actions :
+    ---> Asynchronous API Calls to fetch data from an endpoint and use that data in your application.

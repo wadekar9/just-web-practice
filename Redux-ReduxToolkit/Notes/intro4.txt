@@ -1,0 +1,5 @@
+## Redux Toolkit ?
+---> Redux toolkit is the official, opinionated, batteries-included toolset for efficient Redux development.
+    * Abstract over the setup process
+    * Handle the most common use cases
+    * include some useful utilities
